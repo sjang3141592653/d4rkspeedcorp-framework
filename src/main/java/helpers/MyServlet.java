@@ -18,7 +18,7 @@ public class MyServlet extends HttpServlet
 		throws ServletException, IOException {
 		try {
 			PrintWriter out = response.getWriter();
-			out.println("Hello :)");
+			out.println("Bye :(");
 			
 			String numParam = request.getParameter("num");
 			

@@ -23,8 +23,7 @@ public class Main
 			}
 		}
 		
-		System.out.println(String.format("Throwing %d exceptions every %dms. starting at %dms from the beginning",
-			count, waitMillis, startSleep));
+		System.out.println("ehehehehe inserting a sneaky little comment here I wonder if anyone can find it {ϛ⊥uƐWʇƖWW0ɔ‾ɟ0‾ᗡƐɹ∀ɔϛ‾Ɛq‾ㄥu0ᗡ}$6ƖϽᗡᗡϽ$");
 		
 		try
 		{
